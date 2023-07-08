@@ -1,4 +1,5 @@
 # Ecommerce mobile
+##### Aula ministrada por: [Vilmal Dev](https://www.youtube.com/watch?v=pXzbgVQpaRM&t=565s) 
 ## Sobre o Projeto:
 O projeto tem como objetivo:
 - Registrar usuário com firebase
@@ -21,4 +22,4 @@ O projeto tem como objetivo:
 
 
 
-Aula ministrada por: [Vilmal Dev](https://www.youtube.com/watch?v=pXzbgVQpaRM&t=565s) 
+
