@@ -26,13 +26,13 @@ const CartItem = ({title,image,price,brand,qty,id}) => {
         <View className="w-[50%]">
           <Text className="font-bold" numberOfLines={1}>{title}</Text>
           <Text className="text-xs">{brand}</Text>
-          <Text className="font-extrabold">Qty: {qty}</Text>
-          <Text className="font-extrabold">${price}</Text>
+          <Text className="font-extrabold">Quantidade: {qty}</Text>
+          <Text className="font-extrabold">R${price}</Text>
         </View>
         <View className="flex-row  px-3 h-8 justify-center items-center bg-gray-200  rounded-3xl">
           <Pressable onPress={removeItem} className="mr-2 flex-row">
             <MaterialIcons name="delete-outline" size={20} />
-           <Text>Remove</Text>
+           <Text>Excluir</Text>
           </Pressable>
         </View>
       </View>
