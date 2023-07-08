@@ -17,7 +17,8 @@ O projeto tem como objetivo:
    - Firestore
    - Storage
  
-![image](https://github.com/ca-madureira/fashion-app/assets/121184472/314db7f9-4b60-4106-9582-3880698676ea)
+![image](https://github.com/ca-madureira/fashion-app/assets/121184472/740b87af-437a-4df9-acd0-d44147e970aa)
+
 
 
 
